@@ -1,13 +1,4 @@
-"""
 
- NN_classifier.py  (author: Anson Wong / git: ankonzoid)
-
- We train a multi-layer fully-connected neural network from scratch to classify
- the seeds dataset (https://archive.ics.uci.edu/ml/datasets/seeds). An L2 loss
- function, sigmoid activation, and no bias terms are assumed. The weight
- optimization is gradient descent via the delta rule.
-
-"""
 import numpy as np
 from NeuralNetwork import NeuralNetwork
 import utils as utils
