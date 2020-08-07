@@ -1,8 +1,4 @@
-"""
 
- utils.py  (author: Anson Wong / git: ankonzoid)
-
-"""
 from sklearn import preprocessing
 import numpy as np
 import pandas as pd
