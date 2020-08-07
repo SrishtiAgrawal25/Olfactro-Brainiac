@@ -1,8 +1,4 @@
-"""
 
- NeuralNetwork.py  (author: Anson Wong / git: ankonzoid)
-
-"""
 
 import math, random
 import numpy as np
